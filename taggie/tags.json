@@ -55,6 +55,6 @@
         "visualbasic", "solidity", "rubyonrails", "node.js",
         "jquery", "electron", "postgressql", "bootstrap",
         "flask", "mysql", "seo", "react-native", 
-        "elasticsearch", "cryptocurrency", "ui"
+        "elasticsearch", "cryptocurrency", "ui", "pyqt5"
     ]
 }
